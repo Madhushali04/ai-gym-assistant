@@ -2,7 +2,8 @@
 
 A complete AI-powered fitness application built as a Major Project
 for the Artificial Intelligence Program at Unlox Academy.
-
+## 🚀 Live App
+👉 https://nexfit-ai.streamlit.app,to access camera ,kindy run locally using [streamlit run Home.py]
 ---
 
 ## 👩‍💻 Developer
