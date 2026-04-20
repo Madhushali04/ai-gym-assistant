@@ -7,3 +7,4 @@ mediapipe==0.10.33
 numpy
 Pillow
 plotly
+pymongo
