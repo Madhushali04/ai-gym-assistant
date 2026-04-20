@@ -4,4 +4,3 @@ __pycache__/
 *.pyc
 get-pip.py
 firebase_key.json
-*.task
